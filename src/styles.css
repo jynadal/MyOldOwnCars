@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1.styled {
+  color: red;
+  text-transform: uppercase;
+}
